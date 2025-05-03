@@ -1,0 +1,18 @@
+# Cypress stuff
+cypress/screenshots/
+cypress/videos/
+
+# Node modules
+node_modules/
+.npm/
+package-lock.json
+
+# Cypress binary cache
+Cypress/
+.cache/
+dist/
+build/
+
+# System files
+.DS_Store
+.env
